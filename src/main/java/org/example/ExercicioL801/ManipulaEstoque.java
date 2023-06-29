@@ -1,21 +1,17 @@
 package org.example.ExercicioL801;
 
-import java.util.Arrays;
-
 public class ManipulaEstoque extends Estoque { //Adiciona produtos ao estoque
     private String produtoFinal;
     private int tamanhoEstoque;
     private String[] produtoTemporario;
     private int produtoIndex;
 
-    @Override
     public void adicionaProduto() {
         produtoFinal = getNomeProduto() + ";" + String.valueOf(getPrecoProduto());
         produtos.add(produtoFinal);
         System.out.printf(">> Produto adicionado!\n\n");
     }
 
-    @Override
     public void mostraProduto() {
         tamanhoEstoque = produtos.size();
 
@@ -30,7 +26,6 @@ public class ManipulaEstoque extends Estoque { //Adiciona produtos ao estoque
         }
     }
 
-    @Override
     public void removeProduto(int index) {
         tamanhoEstoque = produtos.size();
 
