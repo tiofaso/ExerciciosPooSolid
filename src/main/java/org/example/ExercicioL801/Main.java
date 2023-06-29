@@ -11,8 +11,8 @@ public class Main{
 
         int escolheOpcao = teclado.menuTeclado();
 
-        if(escolheOpcao < 1 && escolheOpcao > 3){
-            while (escolheOpcao < 1 && escolheOpcao > 3){
+        if(escolheOpcao < 1 || escolheOpcao > 3){
+            while (escolheOpcao < 1 || escolheOpcao > 3){
                 escolheOpcao = teclado.menuErro();
             }
         }
