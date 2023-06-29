@@ -1,1 +1,1 @@
-**Exercício L801** - simnula um movimentador de estoque onde o usuário pode adicionar produtos (nome e preço), verificar o que há no estoque e remover qualquer item que desejar.
+**Exercício L801** (Lista 08/Exercício 01) - simnula um movimentador de estoque onde o usuário pode adicionar produtos (nome e preço), verificar o que há no estoque e remover qualquer item que desejar.
