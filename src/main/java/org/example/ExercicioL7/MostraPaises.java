@@ -21,7 +21,7 @@ public class MostraPaises extends Paises {
             }
         } else {//Já foi criada lista
             for (String lista : getPaises()) {
-                paisesTemp = lista.split(";", 3);
+                paisesTemp = lista.split(";", 6);
                 paisesArrumado = index + " " + paisesTemp[0] + " " + paisesTemp[1] + " " + paisesTemp[2] + " " + paisesTemp[3] + " " + paisesTemp[4] + " " + paisesTemp[5];
                 System.out.println(paisesArrumado);
                 index++;

@@ -15,7 +15,6 @@ public class PaisesArquivo {//Lê um arquivo com vestibulandos e joga numa lista
 
         caminhoCompleto = System.getProperty("user.dir");
         filePath = caminhoCompleto + "/src/main/java/org/example/ExercicioL7" + "/iso3166.csv"; //Caminho do arquivo
-        System.out.println(filePath);
 
         //Lendo o arquivo
         try{
