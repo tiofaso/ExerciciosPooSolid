@@ -1,0 +1,43 @@
+CAN;Canada;EUA;null;null;null;null;null;null;null;null;null
+USA;EUA;Canada;Mexico;null;null;null;null;null;null;null;null
+GRL;Greeland;null;null;null;null;null;null;null;null;null;null
+ISL;Iceland;null;null;null;null;null;null;null;null;null;null
+MEX;Mexico;EUA;Guatemala;Belize;null;null;null;null;null;null;null
+GTM;Guatemala;Belize;El Salvador;Honduras;null;null;null;null;null;null;null
+SLV;El Salvador;Guatemala;Honduras;null;null;null;null;null;null;null;null
+HND;Honduras;Nicarágua;El Salvador;null;null;null;null;null;null;null;null
+NIC;Nicarágua;Honduras;Costa Rica;null;null;null;null;null;null;null;null
+CRI;Costa Rica;Nicarágua;Panamá;null;null;null;null;null;null;null;null
+PAN;Panamá;Costa Rica;Colômbia;null;null;null;null;null;null;null;null
+COL;Colômbia;Venezuela;Equador;Peru;Brasil;null;null;null;null;null;null
+ECU;Equador;Peru;Colômbia;null;null;null;null;null;null;null;null
+PER;Peru;Bolívia;Chile;null;null;null;null;null;null;null;null
+BOL;Bolívia;Chile;Peru;Paraguai;Argentina;Brasil;null;null;null;null;null
+PRY;Paraguai;Brasil;Bolivia;Argentina;null;null;null;null;null;null;null
+ARG;Argentina;Chile;Bolivia;Paraguai;Uruguai;Uruguai;Brasil;null;null;null;null
+BRA;Brasil;Uruguai;Paraguai;Argentina;Bolivia;Peru;Colômbia;Venezuela;Guiana;Suriname;Guiana Francesa
+GUF;Guiana Francesa;Brasil;Suriname;null;null;null;null;null;null;null;null
+SUR;Suriname;Guiana Francesa;Guiana;null;null;null;null;null;null;null;null
+GUY;Guiana;Brasil;Venezuela;null;null;null;null;null;null;null;null
+CUB;Cuba;null;null;null;null;null;null;null;null;null;null
+HTI;Haiti;Republica Dominicana;null;null;null;null;null;null;null;null;null
+VGB;Ilhas Virgens Britanicas;null;null;null;null;null;null;null;null;null;null
+VIR;Ilhas Virgens Americanas;null;null;null;null;null;null;null;null;null;null
+PRI;Porto Rico;null;null;null;null;null;null;null;null;null;null
+MSR;MontSerrat;null;null;null;null;null;null;null;null;null;null
+DMA;Dominica;null;null;null;null;null;null;null;null;null;null
+JAM;Jamaica;null;null;null;null;null;null;null;null;null;null
+CYM;Ilhas Cayman;null;null;null;null;null;null;null;null;null;null
+ABW;Aruba;null;null;null;null;null;null;null;null;null;null
+CUW;Curaçao;null;null;null;null;null;null;null;null;null;null
+TTO;Trindade e Tobago;null;null;null;null;null;null;null;null;null;null
+GRD;Granada;null;null;null;null;null;null;null;null;null;null
+BRB;Barbados;null;null;null;null;null;null;null;null;null;null
+VCT;São Vicente e Granadinas;null;null;null;null;null;null;null;null;null;null
+MTQ;Martinica;null;null;null;null;null;null;null;null;null;null
+GLP;Guadalupe;null;null;null;null;null;null;null;null;null;null
+AIA;Anguilla;null;null;null;null;null;null;null;null;null;null
+KNA;São Cristovão e Névis;null;null;null;null;null;null;null;null;null;null
+ATG;Antigua e Barbuda;null;null;null;null;null;null;null;null;null;null
+TCA;Tirks e Caicos;null;null;null;null;null;null;null;null;null;null
+BHS;Bahamas;null;null;null;null;null;null;null;null;null;null
